@@ -34,3 +34,4 @@ chmod +x /usr/share/AdGuardHome/</br>
 我输入的是上面两条，然后重启AdGuardHome
 ![image](https://github.com/user-attachments/assets/f81d8663-aeaa-45f1-8b25-b0bdfe093ef0)
 
+2025.09.23 LEDE openwrt编译—raspberry 3B+编译避雷 https://github.com/xingshu1990/openwrt-note/issues/2
